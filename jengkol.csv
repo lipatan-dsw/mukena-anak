@@ -1,5 +1,5 @@
-title,permalink,body,published_at,filter,categories,tags,jenis,brand,description,image,product,price,sku,kondisi
-Jual Mukena Anak Perempuan - CAO 091 Murah,mukena-anak-perempuan-cao-091,"
+title,permalink,body,published_at,filter,categories,tags,jenis,brand,description,image,image1,image2,image3,image4,image5,product,price,hargajual,profit,sku,kondisi
+Jual Mukena Shalat Muslimah Anak Perempuan - CAO 090 Murah,mukena-shalat-muslimah-anak-perempuan-cao-090,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -24,6 +24,7 @@ Jual Mukena Anak Perempuan - CAO 091 Murah,mukena-anak-perempuan-cao-091,"
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -46,7 +47,7 @@ Jual Mukena Anak Perempuan - CAO 091 Murah,mukena-anak-perempuan-cao-091,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Mukena Anak merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Mukena Anak Perempuan - CAO 091 dengan bahan Cotton ini dijamin awet.<br/>Kode : CAO 091<br/>Warna : UNGU<br/>Bahan : Cotton<br/>Ukuran : All Size (1 Ukuran)<br/>Berat : 0.65 kg<br>
+         <p>Mukena Shalat Muslimah Anak Perempuan - CAO 090 adalah salah satu produk merek Catenzo Junior. Produk fashion anak handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk anak Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Mukena Anak ini terbuat dari bahan COTTON.<br/>Kode : CAO 090<br/>Warna : PINK<br/>Bahan : COTTON<br/>Ukuran : AS<br/>Berat : 0.6 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -61,8 +62,8 @@ Jual Mukena Anak Perempuan - CAO 091 Murah,mukena-anak-perempuan-cao-091,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-24,html,mukena-anak,catenzo-junior,mukena-anak,catenzo-junior,"Mukena Anak Bahan Cotton, Ukuran All Size (1 Ukuran), Warna UNGU",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/381-cao-091.jpg,Mukena Anak Perempuan - CAO 091,Rp 86.900,CAO 091,Baru
-Jual Mukena Anak Perempuan - CAO 090 Murah,mukena-anak-perempuan-cao-090,"
+     </div><!--/category-tab-->",2017-10-18,html,mukena-anak,catenzo-junior,mukena-anak,catenzo-junior,"Mukena Anak Bahan COTTON, Ukuran AS, Warna PINK",https://images.lipatan.com/katalog-catenzo-junior-2017-2/foto-produk-satuan/336-cao-090.jpg,/,/,/,/,/,Mukena Shalat Muslimah Anak Perempuan - CAO 090,Rp 86.900,Rp 101.900,Rp 15.000,CAO 090,Baru
+Jual Mukena Shalat Muslimah Anak Perempuan - CAO 100 Murah,mukena-shalat-muslimah-anak-perempuan-cao-100,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -87,6 +88,7 @@ Jual Mukena Anak Perempuan - CAO 090 Murah,mukena-anak-perempuan-cao-090,"
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -109,7 +111,7 @@ Jual Mukena Anak Perempuan - CAO 090 Murah,mukena-anak-perempuan-cao-090,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Mukena Anak merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Mukena Anak Perempuan - CAO 090 dengan bahan Cotton ini dijamin awet.<br/>Kode : CAO 090<br/>Warna : PINK<br/>Bahan : Cotton<br/>Ukuran : All Size (1 Ukuran)<br/>Berat : 0.65 kg<br>
+         <p>Mukena Shalat Muslimah Anak Perempuan - CAO 100 adalah salah satu produk merek Catenzo Junior. Produk fashion anak handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk anak Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Mukena Anak ini terbuat dari bahan COTTON.<br/>Kode : CAO 100<br/>Warna : PUTIH KOMBINASI<br/>Bahan : COTTON<br/>Ukuran : AS<br/>Berat : 0.6 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -124,8 +126,8 @@ Jual Mukena Anak Perempuan - CAO 090 Murah,mukena-anak-perempuan-cao-090,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-24,html,mukena-anak,catenzo-junior,mukena-anak,catenzo-junior,"Mukena Anak Bahan Cotton, Ukuran All Size (1 Ukuran), Warna PINK",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/382-cao-090.jpg,Mukena Anak Perempuan - CAO 090,Rp 86.900,CAO 090,Baru
-Jual Mukena Anak Perempuan - CAO 094 Murah,mukena-anak-perempuan-cao-094,"
+     </div><!--/category-tab-->",2017-10-18,html,mukena-anak,catenzo-junior,mukena-anak,catenzo-junior,"Mukena Anak Bahan COTTON, Ukuran AS, Warna PUTIH KOMBINASI",https://images.lipatan.com/katalog-catenzo-junior-2017-2/foto-produk-satuan/337-cao-100.jpg,/,/,/,/,/,Mukena Shalat Muslimah Anak Perempuan - CAO 100,Rp 86.900,Rp 101.900,Rp 15.000,CAO 100,Baru
+Jual Mukena Shalat Muslimah Anak Perempuan - CYZ 001 Murah,mukena-shalat-muslimah-anak-perempuan-cyz-001,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -150,6 +152,7 @@ Jual Mukena Anak Perempuan - CAO 094 Murah,mukena-anak-perempuan-cao-094,"
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -172,7 +175,7 @@ Jual Mukena Anak Perempuan - CAO 094 Murah,mukena-anak-perempuan-cao-094,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Mukena Anak merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Mukena Anak Perempuan - CAO 094 dengan bahan Spandex ini dijamin awet.<br/>Kode : CAO 094<br/>Warna : BIRU<br/>Bahan : Spandex<br/>Ukuran : All Size (1 Ukuran)<br/>Berat : 0.65 kg<br>
+         <p>Mukena Shalat Muslimah Anak Perempuan - CYZ 001 adalah salah satu produk merek Catenzo Junior. Produk fashion anak handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk anak Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Mukena Anak ini terbuat dari bahan COTTON.<br/>Kode : CYZ 001<br/>Warna : PINK<br/>Bahan : COTTON<br/>Ukuran : AS<br/>Berat : 0.6 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -187,8 +190,8 @@ Jual Mukena Anak Perempuan - CAO 094 Murah,mukena-anak-perempuan-cao-094,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-24,html,mukena-anak,catenzo-junior,mukena-anak,catenzo-junior,"Mukena Anak Bahan Spandex, Ukuran All Size (1 Ukuran), Warna BIRU",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/384-cao-094.jpg,Mukena Anak Perempuan - CAO 094,Rp 125.900,CAO 094,Baru
-Jual Mukena Anak Perempuan - CAO 095 Murah,mukena-anak-perempuan-cao-095,"
+     </div><!--/category-tab-->",2017-10-18,html,mukena-anak,catenzo-junior,mukena-anak,catenzo-junior,"Mukena Anak Bahan COTTON, Ukuran AS, Warna PINK",https://images.lipatan.com/katalog-catenzo-junior-2017-2/foto-produk-satuan/338-cyz-001.jpg,/,/,/,/,/,Mukena Shalat Muslimah Anak Perempuan - CYZ 001,Rp 118.400,Rp 138.900,Rp 20.500,CYZ 001,Baru
+Jual Mukena Shalat Muslimah Anak Perempuan - CYZ 002 Murah,mukena-shalat-muslimah-anak-perempuan-cyz-002,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -213,6 +216,7 @@ Jual Mukena Anak Perempuan - CAO 095 Murah,mukena-anak-perempuan-cao-095,"
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -235,7 +239,7 @@ Jual Mukena Anak Perempuan - CAO 095 Murah,mukena-anak-perempuan-cao-095,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Mukena Anak merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Mukena Anak Perempuan - CAO 095 dengan bahan Spandex ini dijamin awet.<br/>Kode : CAO 095<br/>Warna : PUTIH KOMBINASI<br/>Bahan : Spandex<br/>Ukuran : All Size (1 Ukuran)<br/>Berat : 0.65 kg<br>
+         <p>Mukena Shalat Muslimah Anak Perempuan - CYZ 002 adalah salah satu produk merek Catenzo Junior. Produk fashion anak handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk anak Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Mukena Anak ini terbuat dari bahan COTTON.<br/>Kode : CYZ 002<br/>Warna : HIJAU<br/>Bahan : COTTON<br/>Ukuran : AS<br/>Berat : 0.6 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -250,4 +254,4 @@ Jual Mukena Anak Perempuan - CAO 095 Murah,mukena-anak-perempuan-cao-095,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-24,html,mukena-anak,catenzo-junior,mukena-anak,catenzo-junior,"Mukena Anak Bahan Spandex, Ukuran All Size (1 Ukuran), Warna PUTIH KOMBINASI",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/385-cao-095.jpg,Mukena Anak Perempuan - CAO 095,Rp 125.900,CAO 095,Baru
+     </div><!--/category-tab-->",2017-10-18,html,mukena-anak,catenzo-junior,mukena-anak,catenzo-junior,"Mukena Anak Bahan COTTON, Ukuran AS, Warna HIJAU",https://images.lipatan.com/katalog-catenzo-junior-2017-2/foto-produk-satuan/339-cyz-002.jpg,/,/,/,/,/,Mukena Shalat Muslimah Anak Perempuan - CYZ 002,Rp 132.900,Rp 155.900,Rp 23.000,CYZ 002,Baru
